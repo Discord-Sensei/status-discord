@@ -15,12 +15,14 @@
     <a href="https://nodei.co/npm/discord.js/"><img src="https://nodei.co/npm/discord.js.png?downloads=true&stars=true" alt="NPM info" /></a>
   </p>
 </div>
-
+# Requieres
+```js
+Node
+```
 
 # Explicacion
 
 ```js
-
 <la mejor explicacion 🚀>
 
 1.- Vas a https://discord.com/developers/applications 
@@ -33,6 +35,4 @@
 
 5. Bajas y añades una imagen ponle un nombre corto y en la linea 9 cambias dev por el nombre que le pusiste espero que les haya servido```
 
-# Requieres
-```js
-Node```
+

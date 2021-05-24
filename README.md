@@ -20,6 +20,7 @@
 # Explicacion
 
 ```js
+
 <la mejor explicacion 🚀>
 
 1.- Vas a https://discord.com/developers/applications 
@@ -30,4 +31,8 @@
 
 4.- Para la imagen vas a setting rich presence
 
-5. Bajas y añades una imagen ponle un nombre corto y en la linea 9 cambias dev por el nombre que le pusiste espero que les haya servido``
+5. Bajas y añades una imagen ponle un nombre corto y en la linea 9 cambias dev por el nombre que le pusiste espero que les haya servido```
+
+# Requieres
+```js
+Node```
